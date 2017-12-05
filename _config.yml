@@ -7,6 +7,9 @@ encoding: utf-8
 
 gems: [jekyll-paginate]
 
+remote_theme: mmistakes/minimal-mistakes
+
+
 exclude:
   - Gemfile
   - Gemfile.lock
