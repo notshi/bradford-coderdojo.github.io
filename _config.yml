@@ -15,3 +15,5 @@ exclude:
   - Gemfile.lock
 
 
+
+theme: jekyll-theme-cayman
