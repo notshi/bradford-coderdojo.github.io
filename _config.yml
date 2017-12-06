@@ -13,7 +13,3 @@ remote_theme: mmistakes/minimal-mistakes
 exclude:
   - Gemfile
   - Gemfile.lock
-
-
-
-theme: jekyll-theme-cayman
