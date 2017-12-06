@@ -5,6 +5,5 @@ Bradford's Coderdojo Blog
 
 https://bradford-coderdojo.github.io
 
-test site
 
 
