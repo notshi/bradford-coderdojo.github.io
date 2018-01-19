@@ -5,12 +5,12 @@ title: Projects
 
 # {{ page.title }}
 
-- [The website project](/project/website)  
+- [The website project]({{ site.baseurl }}/project/website)  
     The CoderDojo website project including "how to" information
     
-- [Louisa's turnip project](/project/turnips)
+- [Louisa's turnip project]({{ site.baseurl }}/project/turnips)
 
-- [Try out our Game Project BLTM!](/test/bltm)  
+- [Try out our Game Project BLTM!]({{ site.baseurl }}/test/bltm)  
     We are working on a platform game collaboratively
     
 - [Alex - Chicken Bucket Game](https://studio.code.org/c/407488600)  
