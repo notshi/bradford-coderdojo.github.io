@@ -6,6 +6,6 @@ We started the session with a quick recap, and many had prepared content of thei
 
 We explored what we wanted to do.
 
-![Ideas for the session](/assets/2017-02-18-ideas.jpg)
+![Ideas for the session]({{ site.baseurl }}/assets/2017-02-18-ideas.jpg)
 
 More to follow...
