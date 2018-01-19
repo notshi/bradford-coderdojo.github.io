@@ -6,7 +6,7 @@ Bradford's Coderdojo Blog
 https://bradford-coderdojo.github.io
 
 
-Old site still lives!
+Old site still lives! Visit [here](https://notshi.github.io/old_bradford-coderdojo/) to time travel.
 
 
 
