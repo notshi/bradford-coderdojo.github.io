@@ -6,4 +6,7 @@ Bradford's Coderdojo Blog
 https://bradford-coderdojo.github.io
 
 
+Old site still lives!
+
+
 
