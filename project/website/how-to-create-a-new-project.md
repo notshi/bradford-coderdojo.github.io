@@ -10,7 +10,7 @@ __Tip:__  _Hold Ctrl or &#8984; button when clicking a link to open it in a new 
 1. If you do not have one, [create a new account](https://github.com/join) on GitHub (choose the free plan and do not worry about creating a project at the end, but do verify your email address).
 2. Find the [Bradford CoderDojo](https://github.com/bradford-coderdojo/bradford-coderdojo.github.io) repository in GitHub
 3. Clone the repository  
-![Picture showing where the clone button is in GitHub](/assets/website/instructions-clone.jpg "Clone example")  
+![Picture showing where the clone button is in GitHub]({{ site.baseurl }}/assets/website/instructions-clone.jpg "Clone example")  
 4. Choose "Open in Desktop"
 5. If you don't have GitHub desktop - download and install it now.  Log in, go to the dashboard and then go back to 2
 6. If you do have GitHub desktop but it just keeps opening the download page - make sure you are signed into the GitHub website.
@@ -26,10 +26,10 @@ __Tip:__  _Hold Ctrl or &#8984; button when clicking a link to open it in a new 
     ~~~~~
 Changing the name of 'my-project-name' to what ever you want to call your project
 13. Create a new folder to store you project files in under the project folder - make sure the name is the same as what your called it in the line you have just entered in instruction 12  
-    ![Picture showing where to create a new folder in windows](/assets/website/instructions-new-folder.jpg "New folder example")
+    ![Picture showing where to create a new folder in windows]({{ site.baseurl }}/assets/website/instructions-new-folder.jpg "New folder example")
 14. Create a new file in this folder called 'index.md' and populate it with the following (change the date, title and put whatever you want in)  
     __Tip:__ When creating the file make sure that windows explorer isn't hiding the file extension other wise you can't easily change it from a txt document.  You can change it like this:  
-    ![Picture showing how to turn on file extensions in windows explorer](/assets/website/instructions-file-extensions.jpg "Turn on file extensions")
+    ![Picture showing how to turn on file extensions in windows explorer]({{ site.baseurl }}/assets/website/instructions-file-extensions.jpg "Turn on file extensions")
 
     ~~~~
     ---
@@ -44,5 +44,5 @@ Changing the name of 'my-project-name' to what ever you want to call your projec
     ~~~~
 15. Save it.
 16. Go back to GitHub Desktop, enter a comment, commit it and sync it back to GitHub.
-    ![Picture showing how to choose project, select changes, fill in a comment, commit and sync in GitHub desktop](/assets/website/instructions-sync.jpg "Sync to GitHub repository")
+    ![Picture showing how to choose project, select changes, fill in a comment, commit and sync in GitHub desktop]({{ site.baseurl }}/assets/website/instructions-sync.jpg "Sync to GitHub repository")
 
